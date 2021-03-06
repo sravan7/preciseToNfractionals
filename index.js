@@ -21,7 +21,6 @@ const preciseToNfractionals = (number,digits)=>{
     }
     catch (err){
         console.error(err);
-        process.exit(1)
     }
 }
 module.exports = preciseToNfractionals;

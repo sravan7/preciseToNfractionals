@@ -1,9 +1,12 @@
 {
   "name": "precise_to_n_fractionals",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Precise to N fractional digits without rounding the Number. 99.9999 => precise_to_n_fractionals(99.9999,3) => 99.999 ",
   "main": "index.js",
   "author": "sravan kumar",
+  "scripts": {
+    "test": "node test.js"
+  },
   "license": "ISC",
   "keywords": [
     "round",
