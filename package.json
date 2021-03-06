@@ -4,5 +4,6 @@
   "description": "Precise to N fractional digits without rounding the Number. 99.9999 => precise_to_n_fractionals(99.9999,3) => 99.999 ",
   "main": "index.js",
   "author": "sravan kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords":["round","Math.round","Math.floor","Math.ceil","precise","float","rounding"]
 }
