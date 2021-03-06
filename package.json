@@ -1,10 +1,10 @@
 {
   "name": "precise_to_n_fractionals",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Precise to N fractional digits without rounding the Number. 99.9999 => precise_to_n_fractionals(99.9999,3) => 99.999 ",
-  "homepage":"https://github.com/sravan7/preciseToNfractionals",
-  "bugs":{
-    "url":"https://github.com/sravan7/preciseToNfractionals/issues"
+  "homepage": "https://github.com/sravan7/preciseToNfractionals",
+  "bugs": {
+    "url": "https://github.com/sravan7/preciseToNfractionals/issues"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,16 @@
     "test": "node test.js"
   },
   "license": "ISC",
-  "keywords":["round","Math.round","Math.floor","Math.ceil","precise","float","rounding","front-end","back-end","Math"]
+  "keywords": [
+    "round",
+    "Math.round",
+    "Math.floor",
+    "Math.ceil",
+    "precise",
+    "float",
+    "rounding",
+    "front-end",
+    "back-end",
+    "Math"
+  ]
 }
