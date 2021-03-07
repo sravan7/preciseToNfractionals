@@ -16,6 +16,9 @@
     "test": "node test.js"
   },
   "license": "ISC",
+  "engines": {
+    "node": ">=6.7.1"
+  },
   "keywords": [
     "round",
     "Math.round",
