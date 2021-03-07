@@ -16,5 +16,19 @@
     "test": "node test.js"
   },
   "license": "ISC",
-  "keywords":["round","Math.round","Math.floor","Math.ceil","precise","float","rounding","front-end","back-end","Math"]
+  "engines": {
+    "node": ">=6.7.1"
+  },
+  "keywords": [
+    "round",
+    "Math.round",
+    "Math.floor",
+    "Math.ceil",
+    "precise",
+    "float",
+    "rounding",
+    "front-end",
+    "back-end",
+    "Math"
+  ]
 }
